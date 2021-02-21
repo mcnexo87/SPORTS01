@@ -1,0 +1,442 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ADRENALINA SPORTS NETWORK *FHD">
+    <display-name lang="es">ADRENALINA SPORTS NETWORK *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="AYM SPORTS *HD">
+    <display-name lang="es">AYM SPORTS *HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="BEIN SPORTS *FHD">
+    <display-name lang="en">BEIN SPORTS *FHD</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="BEIN SPORTS *HD">
+    <display-name lang="en">BEIN SPORTS *HD</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <programme start="20210220010000 -0500" stop="20210220020000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Aventura Extrema 2014</title>
+  </programme>
+  <programme start="20210220020000 -0500" stop="20210220053500 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Corrida de Toros</title>
+  </programme>
+  <programme start="20210220053500 -0500" stop="20210220065500 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Diego Lopes vs. Marco Beltran</title>
+  </programme>
+  <programme start="20210220065500 -0500" stop="20210220073000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Desafío TDN</title>
+  </programme>
+  <programme start="20210220073000 -0500" stop="20210220083000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Aquí te levantas</title>
+  </programme>
+  <programme start="20210220083000 -0500" stop="20210220093000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Yoga con Luz</title>
+  </programme>
+  <programme start="20210220093000 -0500" stop="20210220103000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Ponte fit</title>
+  </programme>
+  <programme start="20210220103000 -0500" stop="20210220110000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Desafío TDN</title>
+  </programme>
+  <programme start="20210220110000 -0500" stop="20210220130000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Reto 4 Elementos</title>
+  </programme>
+  <programme start="20210220130000 -0500" stop="20210220150000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Reto 4 Elementos</title>
+  </programme>
+  <programme start="20210220150000 -0500" stop="20210220152000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Reto 4 Elementos</title>
+  </programme>
+  <programme start="20210220152000 -0500" stop="20210220161000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Aventura Extrema 2015</title>
+  </programme>
+  <programme start="20210220161000 -0500" stop="20210220173000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Diego Lopes vs. Marco Beltran</title>
+  </programme>
+  <programme start="20210220173000 -0500" stop="20210220210500 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Corrida de Toros</title>
+  </programme>
+  <programme start="20210220210500 -0500" stop="20210220213000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Desafío TDN</title>
+  </programme>
+  <programme start="20210220213000 -0500" stop="20210220233000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Reto 4 Elementos</title>
+  </programme>
+  <programme start="20210220233000 -0500" stop="20210221013000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Reto 4 Elementos</title>
+  </programme>
+  <programme start="20210221233000 -0500" stop="20210222013000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Reto 4 Elementos</title>
+  </programme>
+  <programme start="20210222013000 -0500" stop="20210222014500 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Reto 4 Elementos</title>
+  </programme>
+  <programme start="20210222014500 -0500" stop="20210222024000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Aventura Extrema 2014</title>
+  </programme>
+  <programme start="20210222024000 -0500" stop="20210222053500 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Corrida de Toros</title>
+  </programme>
+  <programme start="20210222053500 -0500" stop="20210222063000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Drako vs. Hooligan 2 Repetición</title>
+  </programme>
+  <programme start="20210222063000 -0500" stop="20210222073000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">XFL 2018</title>
+  </programme>
+  <programme start="20210222073000 -0500" stop="20210222083000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Aquí te levantas</title>
+  </programme>
+  <programme start="20210222083000 -0500" stop="20210222093000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Yoga con Luz</title>
+  </programme>
+  <programme start="20210222093000 -0500" stop="20210222103000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Ponte fit</title>
+  </programme>
+  <programme start="20210222103000 -0500" stop="20210222110000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Desafío TDN</title>
+  </programme>
+  <programme start="20210222110000 -0500" stop="20210222130000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Reto 4 Elementos</title>
+  </programme>
+  <programme start="20210222130000 -0500" stop="20210222150000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Reto 4 Elementos</title>
+  </programme>
+  <programme start="20210222150000 -0500" stop="20210222152000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Reto 4 Elementos</title>
+  </programme>
+  <programme start="20210222152000 -0500" stop="20210222170500 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Aventura Extrema 2015</title>
+  </programme>
+  <programme start="20210222170500 -0500" stop="20210222173000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Desafío TDN</title>
+  </programme>
+  <programme start="20210222173000 -0500" stop="20210222203000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Corrida de Toros</title>
+  </programme>
+  <programme start="20210222203000 -0500" stop="20210222213000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Drako vs. Hooligan 2 Repetición</title>
+  </programme>
+  <programme start="20210222213000 -0500" stop="20210222234000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Reto 4 Elementos</title>
+  </programme>
+  <programme start="20210222234000 -0500" stop="20210223014000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Reto 4 Elementos</title>
+  </programme>
+  <programme start="20210223014000 -0500" stop="20210223021000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Desafío TDN</title>
+  </programme>
+  <programme start="20210223021000 -0500" stop="20210223042000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Reto 4 Elementos</title>
+  </programme>
+  <programme start="20210223042000 -0500" stop="20210223052500 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Drako vs. Hooligan 2 Repetición</title>
+  </programme>
+  <programme start="20210223052500 -0500" stop="20210223062000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">XFL 2018</title>
+  </programme>
+  <programme start="20210223062000 -0500" stop="20210223072000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Ponte fit</title>
+  </programme>
+  <programme start="20210223072000 -0500" stop="20210223082000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Yoga con Luz</title>
+  </programme>
+  <programme start="20210223082000 -0500" stop="20210223092000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Aquí te levantas</title>
+  </programme>
+  <programme start="20210223092000 -0500" stop="20210223102000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Aventura Extrema 2014</title>
+  </programme>
+  <programme start="20210223102000 -0500" stop="20210223111500 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">XFL 2018</title>
+  </programme>
+  <programme start="20210223111500 -0500" stop="20210223132500 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Reto 4 Elementos</title>
+  </programme>
+  <programme start="20210223132500 -0500" stop="20210223142500 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Yoga con Luz</title>
+  </programme>
+  <programme start="20210223142500 -0500" stop="20210223152500 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Ponte fit</title>
+  </programme>
+  <programme start="20210223152500 -0500" stop="20210223162000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">XFL 2018</title>
+  </programme>
+  <programme start="20210223162000 -0500" stop="20210223172000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Aquí te levantas</title>
+  </programme>
+  <programme start="20210223172000 -0500" stop="20210223182000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Aventura Extrema 2015</title>
+  </programme>
+  <programme start="20210223182000 -0500" stop="20210223192000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Ponte fit</title>
+  </programme>
+  <programme start="20210223192000 -0500" stop="20210223195000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Desafío TDN</title>
+  </programme>
+  <programme start="20210223195000 -0500" stop="20210223220000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Reto 4 Elementos</title>
+  </programme>
+  <programme start="20210223220000 -0500" stop="20210223230000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Aventura Extrema 2015</title>
+  </programme>
+  <programme start="20210223230000 -0500" stop="20210223235500 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">XFL 2018</title>
+  </programme>
+  <programme start="20210223235500 -0500" stop="20210224011500 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Drako vs. Hooligan 2 Repetición</title>
+  </programme>
+  <programme start="20210224235500 -0500" stop="20210225011500 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Drako vs. Hooligan 2 Repetición</title>
+  </programme>
+  <programme start="20210225011500 -0500" stop="20210225020500 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Aventura Extrema 2014</title>
+  </programme>
+  <programme start="20210225020500 -0500" stop="20210225041000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Reto 4 Elementos</title>
+  </programme>
+  <programme start="20210225041000 -0500" stop="20210225052500 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Drako vs. Hooligan 2 Repetición</title>
+  </programme>
+  <programme start="20210225092000 -0500" stop="20210225102000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Aventura Extrema 2015</title>
+  </programme>
+  <programme start="20210225220000 -0500" stop="20210225225000 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Aventura Extrema 2016</title>
+  </programme>
+  <programme start="20210225225000 -0500" stop="20210225234500 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">XFL 2018</title>
+  </programme>
+  <programme start="20210225234500 -0500" stop="20210226013500 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Beltran vs. Mendoza Repetición</title>
+  </programme>
+  <programme start="20210226234500 -0500" stop="20210227013500 -0500" channel="ADRENALINA SPORTS NETWORK *FHD">
+    <title lang="es">Beltran vs. Mendoza Repetición</title>
+  </programme>
+  <programme start="20210220010000 -0500" stop="20210220040000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Béisbol Liga Mexicana</title>
+  </programme>
+  <programme start="20210220040000 -0500" stop="20210220060000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Baloncesto LNBP de México</title>
+  </programme>
+  <programme start="20210220060000 -0500" stop="20210220070000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Alta Velocidad</title>
+  </programme>
+  <programme start="20210220070000 -0500" stop="20210220090000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Pachuca Sub 17 vs. Atlas Sub 17</title>
+  </programme>
+  <programme start="20210220090000 -0500" stop="20210220093000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Pesca en Directo</title>
+  </programme>
+  <programme start="20210220093000 -0500" stop="20210220100000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Basketball a Fondo</title>
+  </programme>
+  <programme start="20210220100000 -0500" stop="20210220103000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Propulsión</title>
+  </programme>
+  <programme start="20210220103000 -0500" stop="20210220110000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Red Bull</title>
+  </programme>
+  <programme start="20210220110000 -0500" stop="20210220113000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">El Pierrotazo</title>
+  </programme>
+  <programme start="20210220113000 -0500" stop="20210220140000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Baloncesto LNBP de México</title>
+  </programme>
+  <programme start="20210220140000 -0500" stop="20210220160000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Tecos FC vs. Reboceros de La Piedad</title>
+  </programme>
+  <programme start="20210220160000 -0500" stop="20210220180000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Lucha libre</title>
+  </programme>
+  <programme start="20210220180000 -0500" stop="20210220200000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Mineros de Fresnillo vs. Atlético San Luis B En Vivo</title>
+  </programme>
+  <programme start="20210220200000 -0500" stop="20210220210000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Red Bull</title>
+  </programme>
+  <programme start="20210220210000 -0500" stop="20210220213000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">R de Rudos</title>
+  </programme>
+  <programme start="20210220213000 -0500" stop="20210221000000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Baloncesto LNBP de México</title>
+  </programme>
+  <programme start="20210221000000 -0500" stop="20210221010000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Divinas de la Lucha</title>
+  </programme>
+  <programme start="20210221060000 -0500" stop="20210221070000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">El Pierrotazo</title>
+  </programme>
+  <programme start="20210221070000 -0500" stop="20210221090000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Mineros de Fresnillo vs. Atlético San Luis B</title>
+  </programme>
+  <programme start="20210221093000 -0500" stop="20210221120000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Baloncesto LNBP de México</title>
+  </programme>
+  <programme start="20210221120000 -0500" stop="20210221140000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Pumas UNAM Sub 20 vs. León Sub 20</title>
+  </programme>
+  <programme start="20210221140000 -0500" stop="20210221143000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Hoy Fútbol</title>
+  </programme>
+  <programme start="20210221143000 -0500" stop="20210221163000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Pumas UNAM Sub 17 vs. León Sub 17</title>
+  </programme>
+  <programme start="20210221163000 -0500" stop="20210221193000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Boxeo</title>
+  </programme>
+  <programme start="20210221193000 -0500" stop="20210221220000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Baloncesto LNBP de México</title>
+  </programme>
+  <programme start="20210221220000 -0500" stop="20210221223000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">La entrevista</title>
+  </programme>
+  <programme start="20210221223000 -0500" stop="20210221230000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Propulsión</title>
+  </programme>
+  <programme start="20210221230000 -0500" stop="20210222000000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">El Pierrotazo</title>
+  </programme>
+  <programme start="20210222000000 -0500" stop="20210222010000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Ultra MX Retro</title>
+  </programme>
+  <programme start="20210222060000 -0500" stop="20210222070000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Hoy Fútbol</title>
+  </programme>
+  <programme start="20210222070000 -0500" stop="20210222090000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Fútbol Mexicano Liga Premier</title>
+  </programme>
+  <programme start="20210222090000 -0500" stop="20210222093000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Global Fitness</title>
+  </programme>
+  <programme start="20210222093000 -0500" stop="20210222100000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Hot Fitness</title>
+  </programme>
+  <programme start="20210222100000 -0500" stop="20210222103000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">AYM Fitness</title>
+  </programme>
+  <programme start="20210222103000 -0500" stop="20210222113000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Hoy Fútbol</title>
+  </programme>
+  <programme start="20210222113000 -0500" stop="20210222130000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Lucha libre</title>
+  </programme>
+  <programme start="20210222130000 -0500" stop="20210222133000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">R de Rudos</title>
+  </programme>
+  <programme start="20210222133000 -0500" stop="20210222140000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Regatas</title>
+  </programme>
+  <programme start="20210222140000 -0500" stop="20210222160000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Fútbol Mexicano Liga Premier</title>
+  </programme>
+  <programme start="20210222160000 -0500" stop="20210222180000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Baloncesto LNBP de México</title>
+  </programme>
+  <programme start="20210222180000 -0500" stop="20210222183000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">R de Rudos</title>
+  </programme>
+  <programme start="20210222183000 -0500" stop="20210222190000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Regatas</title>
+  </programme>
+  <programme start="20210222190000 -0500" stop="20210222200000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Hablemos del rey</title>
+  </programme>
+  <programme start="20210222200000 -0500" stop="20210222210000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Alta Velocidad</title>
+  </programme>
+  <programme start="20210222210000 -0500" stop="20210222230000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Lucha libre</title>
+  </programme>
+  <programme start="20210222230000 -0500" stop="20210223000000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Chicas del calendario</title>
+  </programme>
+  <programme start="20210223060000 -0500" stop="20210223070000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Hablemos del rey</title>
+  </programme>
+  <programme start="20210223113000 -0500" stop="20210223130000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Kickboxing</title>
+  </programme>
+  <programme start="20210223130000 -0500" stop="20210223140000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Alta Velocidad</title>
+  </programme>
+  <programme start="20210223140000 -0500" stop="20210223160000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Fútbol Mexicano Liga Premier</title>
+  </programme>
+  <programme start="20210223160000 -0500" stop="20210223180000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Baloncesto LNBP de México</title>
+  </programme>
+  <programme start="20210223180000 -0500" stop="20210223190000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Ultra MX Retro</title>
+  </programme>
+  <programme start="20210223190000 -0500" stop="20210223200000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Acereros</title>
+  </programme>
+  <programme start="20210223200000 -0500" stop="20210223210000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">La entrevista</title>
+  </programme>
+  <programme start="20210223210000 -0500" stop="20210223230000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Fútbol Mexicano Liga Premier</title>
+  </programme>
+  <programme start="20210223230000 -0500" stop="20210224000000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Divinas de la Lucha</title>
+  </programme>
+  <programme start="20210224060000 -0500" stop="20210224070000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Acereros</title>
+  </programme>
+  <programme start="20210224113000 -0500" stop="20210224130000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Boxeo</title>
+  </programme>
+  <programme start="20210224130000 -0500" stop="20210224140000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Divinas de la Lucha</title>
+  </programme>
+  <programme start="20210224180000 -0500" stop="20210224183000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Pesca en Directo</title>
+  </programme>
+  <programme start="20210224183000 -0500" stop="20210224190000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Propulsión</title>
+  </programme>
+  <programme start="20210224190000 -0500" stop="20210224200000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Hablemos del rey</title>
+  </programme>
+  <programme start="20210224200000 -0500" stop="20210224203000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">La entrevista</title>
+  </programme>
+  <programme start="20210224203000 -0500" stop="20210224210000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Previo Baloncesto LNBP En Vivo</title>
+  </programme>
+  <programme start="20210224210000 -0500" stop="20210224230000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Baloncesto LNBP de México</title>
+  </programme>
+  <programme start="20210224230000 -0500" stop="20210225000000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">El Pierrotazo</title>
+  </programme>
+  <programme start="20210225060000 -0500" stop="20210225070000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Divinas de la Lucha</title>
+  </programme>
+  <programme start="20210225130000 -0500" stop="20210225140000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Ultra MX Retro</title>
+  </programme>
+  <programme start="20210225160000 -0500" stop="20210225163000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Regatas</title>
+  </programme>
+  <programme start="20210225163000 -0500" stop="20210225170000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Propulsión</title>
+  </programme>
+  <programme start="20210225170000 -0500" stop="20210225173000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">R de Rudos</title>
+  </programme>
+  <programme start="20210225173000 -0500" stop="20210225180000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Red Bull</title>
+  </programme>
+  <programme start="20210225180000 -0500" stop="20210225190000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Divinas de la Lucha</title>
+  </programme>
+  <programme start="20210225190000 -0500" stop="20210225200000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Acereros</title>
+  </programme>
+  <programme start="20210225230000 -0500" stop="20210226000000 -0500" channel="AYM SPORTS *HD">
+    <title lang="es">Ultra MX Retro</title>
+  </programme>
+</tv>
